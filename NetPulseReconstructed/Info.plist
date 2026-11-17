@@ -4,6 +4,8 @@
 <dict>
     <key>CFBundleDisplayName</key>
     <string>NetPulse Reconstruction</string>
+    <key>CFBundleExecutable</key>
+    <string>NetPulseReconstructed</string>
     <key>CFBundleIdentifier</key>
     <string>com.example.netpulse-reconstructed</string>
     <key>CFBundleName</key>
